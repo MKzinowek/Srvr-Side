@@ -1,7 +1,6 @@
 {
   "name": "heroku-app-bones",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node src/index.js",
@@ -15,5 +14,6 @@
   },
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "description": ""
 }
